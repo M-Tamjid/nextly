@@ -1,0 +1,192 @@
+/* XL Device :1200px */
+@media (min-width: 1200px) and (max-width: 1500px){
+
+}
+
+/* LG Device :992px */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+/* MD Device :768px */
+@media (min-width: 768px) and (max-width: 991px){
+  button.navbar-toggler {
+    background: #fff;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+  margin-left: 0;
+  gap: 5px;
+}
+.col-6{
+  width: 100%;
+}
+img.head {
+  width: 100%;
+}
+h1.heading {
+  font-size: 30px;
+}
+.dev-para {
+  padding: 0;
+}
+.row.vend-rpw {
+  flex-direction: column;
+}
+p.ceo-para {
+  padding: 0;
+}
+p.spe-para {
+  padding: 0;
+}
+.specialties-item.col-12 {
+  gap: 2em;
+}
+h1.heading {
+  padding: 0 3em;
+}
+.col-6.info {
+  text-align: center;
+}
+button.btn.btn-secondary.d-none.d-md-block {
+  margin: 20px 0 20px 39%;
+}
+.location-cont.container {
+  gap: 0;
+}
+p.l-head {
+  text-align: center;
+}
+}
+
+/* Extra Small Device :550px */
+@media (max-width: 767px){
+  button.navbar-toggler {
+    background: #fff;
+}
+h1.heading {
+  font-size: 30px;
+}
+.row.heading-row {
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+.col-6{
+  width: 100%;
+}
+.col-6.info {
+  text-align: center;
+}
+.dev-para {
+  padding: 0;
+}
+img.img-vend {
+  width: 100%;
+}
+p.ceo-para {
+  padding: 0;
+}
+p.spe-para {
+  padding: 0;
+}
+.specialties-item.col-12 {
+  gap: 2em;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+  margin: 0;
+  gap: 0;
+}
+.col-6.infoform-col {
+  padding: 0;
+}
+.location-cont.container {
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+}
+p.l-head {
+  text-align: center;
+}
+
+}
+
+
+
+/* SM Small device :550px */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+  .specialties-item.col-12 {
+    gap: 1em;
+}
+.specialties-item.col-12 {
+  gap: 7px;
+}
+img {
+  width: 100%;
+}
+img.desimg {
+  width: inherit;
+}
+.vendoo-logo.des {
+  text-align: center;
+}
+img.c {
+  width: 10%;
+}
+img.js {
+  width: 3em;
+  height: 4em;
+}
+p.ceo-info {
+  text-align: center;
+}
+span.Anthony {
+  padding-left: 0;
+}
+.link-vendo {
+  gap: 5px;
+  font-size: 10px;
+}
+p.para-devo {
+  background-image: url(/img/Logo.png);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  padding: 55px 0;
+}
+.row.heading-row {
+  margin: 0;
+}
+img.logo {
+  width: inherit;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+  margin: 0;
+  gap: 0;
+}
+.col-7 {
+  width: 100%;
+}
+p.para-vendo {
+  font-size: 16px;
+}
+.col-6.infoform-col {
+  padding: 0;
+}
+div#navbarTogglerDemo01 {
+  margin: 0px 25%;
+}
+.location-cont.container {
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+  padding-top: 0em;
+}
+p.l-head {
+  text-align: center;
+}
+}
